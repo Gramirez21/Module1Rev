@@ -1,0 +1,14 @@
+C:\Users\rdann\OneDrive\Desktop\repos\Module1REV\Module1REV\bin\Debug\net8.0\Module1REV.exe
+C:\Users\rdann\OneDrive\Desktop\repos\Module1REV\Module1REV\bin\Debug\net8.0\Module1REV.deps.json
+C:\Users\rdann\OneDrive\Desktop\repos\Module1REV\Module1REV\bin\Debug\net8.0\Module1REV.runtimeconfig.json
+C:\Users\rdann\OneDrive\Desktop\repos\Module1REV\Module1REV\bin\Debug\net8.0\Module1REV.dll
+C:\Users\rdann\OneDrive\Desktop\repos\Module1REV\Module1REV\bin\Debug\net8.0\Module1REV.pdb
+C:\Users\rdann\OneDrive\Desktop\repos\Module1REV\Module1REV\obj\Debug\net8.0\Module1REV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdann\OneDrive\Desktop\repos\Module1REV\Module1REV\obj\Debug\net8.0\Module1REV.AssemblyInfoInputs.cache
+C:\Users\rdann\OneDrive\Desktop\repos\Module1REV\Module1REV\obj\Debug\net8.0\Module1REV.AssemblyInfo.cs
+C:\Users\rdann\OneDrive\Desktop\repos\Module1REV\Module1REV\obj\Debug\net8.0\Module1REV.csproj.CoreCompileInputs.cache
+C:\Users\rdann\OneDrive\Desktop\repos\Module1REV\Module1REV\obj\Debug\net8.0\Module1REV.dll
+C:\Users\rdann\OneDrive\Desktop\repos\Module1REV\Module1REV\obj\Debug\net8.0\refint\Module1REV.dll
+C:\Users\rdann\OneDrive\Desktop\repos\Module1REV\Module1REV\obj\Debug\net8.0\Module1REV.pdb
+C:\Users\rdann\OneDrive\Desktop\repos\Module1REV\Module1REV\obj\Debug\net8.0\Module1REV.genruntimeconfig.cache
+C:\Users\rdann\OneDrive\Desktop\repos\Module1REV\Module1REV\obj\Debug\net8.0\ref\Module1REV.dll
